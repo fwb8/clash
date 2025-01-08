@@ -10,6 +10,8 @@
 #域名后缀匹配
 DOMAIN-SUFFIX,7pandas.com.au
 DOMAIN-SUFFIX,7pandas.com
+DOMAIN-SUFFIX,agcled.com
+DOMAIN-SUFFIX,shopify.com
 
 #域名关键词匹配
 DOMAIN-KEYWORD,7pandas
