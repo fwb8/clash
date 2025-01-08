@@ -1,0 +1,14 @@
+# 内容：OpenAi Bard anthropic
+
+# 域名关键字匹配g规则
+# DOMAIN-KEYWORD,openai
+
+# 域名后缀匹配规则
+# DOMAIN-SUFFIX,chatgpt.com
+
+
+#域名后缀匹配
+
+DOMAIN-SUFFIX,shopify.com
+
+
