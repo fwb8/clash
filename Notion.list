@@ -9,6 +9,7 @@
 
 #域名后缀匹配
 DOMAIN-SUFFIX,notion.so
+DOMAIN-SUFFIX,amazonaws.so
 
 
 
